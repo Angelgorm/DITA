@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="creating_our_first_map">
+    <title>Creating our first map</title>
+    <body>
+        <p>In this tutorial we'll be going through some of the basic map creation tools. In order to
+            foolow along with this guide you need to have a free or paid Inkarnate account.</p>
+        <p>To get the gist of Inkarnate we'll be creating a small regional map. In order to do so
+            we'll be gowing through the following tasks in order: </p>
+        <ul id="ul_ojk_mc3_ypb">
+            <li>How to create a new map</li>
+            <li>Using the mask tool</li>
+            <li>Using the brush tool</li>
+            <li>Using the stamp tool</li>
+            <li>Saving you work and exiting</li>
+        </ul>
+        <p>When you're done with setting up your account and are feeling ready to begin please move
+            onto our first task, "How to create a new map".</p>
+    </body>
+</topic>

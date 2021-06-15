@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="using_the_stamp_tool">
+    <title>Using the stamp tool</title>
+    <shortdesc>The stamp tool is used to put a rich variety of objects onto your map, be they trees,
+        montains or even dragons! They don't even have to be from our own catalogue, you could
+        upload your own ones if you wish.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To complete this guide you'll need to have completed the previous guides. In this
+                task we'll be placing some objects onto our island to add a bit more detail and
+                depth to it. Once you're ready we can continue with: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>The stamp tool is located right under the brush tool and has a tower icon. You
+                    can either click on it with your cursor or you can press the "O" key on your
+                        keyboard.<image placement="break" href="Used%20images/Capture18.PNG"
+                        scale="80" id="image_x12_m5n_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that the stamp tool menu is open you can select your desired stamps from
+                    the catalgue the same way as with when selecting a texture from the texture
+                    ctalogue with Step 2 from "Using the brush tool".<image placement="break"
+                        href="Used%20images/Capture19.PNG" scale="50" id="image_utf_cvn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Once you've chosen a stamp you like look over to the tick option to the right
+                    of the "Open Catalogue" button. You can click it to have it active or to disable
+                    it. While active it will randomly choose a stamp variation to place onto your
+                    map. While disabled it will always place the selected stamp variation. You can
+                    choose stamp variations by clicking on them or by switching from left to right
+                    using the "Alt+Right Keyboard Arrow" shortcut on your keyboard.<image
+                        placement="break" href="Used%20images/Capture20.PNG" scale="50"
+                        id="image_rmz_4vn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Next we have the size and opacity sliders with which you're already familiar
+                    with. If you've forgotten how to use them check out Step 4 from "Using the mask
+                    tool" and Step 5 from "Using the brush tool".<image placement="break"
+                        href="Used%20images/Capture21.PNG" scale="50" id="image_xcd_1wn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Next we have the rotation setting located right under the opacity setting. This
+                    setting determines at what angle your stamps will be placed and it goes from 0
+                    degrees to 359 degrees. You can either manually use the slider with your mouse,
+                    enter a numerical value in the number field or you can use "&lt;" key to move 15
+                    degrees to the left or the ">" key to move 15 degrees to the right.<image
+                        placement="break" href="Used%20images/Capture22.PNG" scale="80"
+                        id="image_cv5_pwn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Finally for this guide we have the layer slider setting located right under the
+                    rotation setting. This slider goes from -5 to +5 and determines which stamp will
+                    pop out to the front. The lower the number the lesser it's priority when
+                    showing. So a tree stamp with a layer value of -1 will be placed behind other
+                    stamps with a higher layer value. You can either manually use the slider with
+                    your mouse, enter a numerical value in the number field or you can use "Ctrl+Up
+                    Arrow Key" to increase the selected stamps layer value or "Ctrl+Down Arrow Key"
+                    to reduce it.<image placement="break" href="Used%20images/Capture23.PNG"
+                        scale="80" id="image_dt3_cxn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that we know how to use the basic stamp options lest start placing some
+                    stamps. This an entirely individual creative process so put as many stamps as
+                    you want, and remember that you can move already placed stamps by stwitching to
+                    the "Select Tool" which is located right above the mask tool. You can also press
+                    "V" on your keyboard to quickly switch to it.</cmd>
+            </step>
+        </steps>
+        <result id="result_fqj_jxn_ypb">This is what I managed to create.<image placement="break"
+                href="Used%20images/Capture24.PNG" scale="50" id="image_spx_pxn_ypb"/>Now let's move
+            onto the next task - "Saving you work and exiting".</result>
+    </taskbody>
+</task>

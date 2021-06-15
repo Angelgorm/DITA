@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="saving_you_work_and_exiting">
+    <title>Saving you work and exiting</title>
+    <shortdesc>Onto our final guide and once again arguably the most important one. We've managed to
+        create our small island and now it's time to save our work.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Probably our shortest and most important task. It's time to save our work! Let's see
+                how it's done:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Hover your cursor over to the top left corner of the screen and click the drop
+                    down menu.<image placement="break" href="Used%20images/Capture25.PNG" scale="80"
+                        id="image_jzf_4yn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that we've opened the menu hover your mouse over to the "Save" option and
+                    click it. Alternatively you can press "Ctrl+S" on your keyboard to use the save
+                        shortcut.<image placement="break" href="Used%20images/Capture26.PNG"
+                        scale="80" id="image_fvm_yyn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>This brought up the name window. Write down the name for your map. I've chosen
+                    to name this map "Tutorial Island". Once you've selected a name either click the
+                    blue "Ok" button or "Enter" key on your keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>Now that we've successfully saved our work go back to the drop down menu on the
+                    top left corner, click it and hover down to the "Return to your maps" option.
+                    Click it to exit the map editor and go back to your maps. There you will see you
+                    newly made map.<image placement="break" href="Used%20images/Capture27.PNG"
+                        scale="80" id="image_wzd_pzn_ypb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_yjx_pzn_ypb">And so we've finally reached the end of our journey! Now
+            that you've made your first map you can always go back to view or edit it through the
+            "My Maps" section on Inkarnate.<image placement="break"
+                href="Used%20images/Capture30.PNG" scale="50" id="image_rfq_yzn_ypb"/></result>
+    </taskbody>
+</task>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_new_map">
+    <title>How to create a new map</title>
+    <shortdesc>Now that you've set up your account let's begin with our first and arguably most
+        important task - creating a new blank map!</shortdesc>
+    <taskbody>
+        <context>
+            <p>In this task we'll be creating a new map with the Fantasy Regional Classic style. You
+                won't require a paid version of Inkaranate to follow this task. Now without further
+                ado let's begin: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Hover your mouse cursor over to the top right corner and left-click on the
+                    "Create New Map" button. Alternatively, if you're in the "My Maps" section you
+                    can hover over to the left side of the search bar right under the "My Maps"
+                    section where you can find another "Create New Map" button. This will open the
+                    "Choose Style" menu.<image placement="break" href="Used%20images/Capture2.PNG"
+                        id="image_kb4_hdn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that we're in the choose style menu, scroll down with your mouse wheel,
+                    hover your cursor over to the "Fantasy Regional Classic" style and left-click
+                    it. Then click the yellow "Choose Style" button at the bottom right corner of
+                    the style menu.<image placement="break" href="Used%20images/Capture.PNG"
+                        scale="80" id="image_v2b_fdn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now you'll have to choose your scene settings. For this tutorial guide we
+                    suggest you select the "Medium(1K)" resolution option and the "Landscape 40x30
+                    tiles" aspect ration option.<image placement="break"
+                        href="Used%20images/Capture3.PNG" scale="50" id="image_d1b_2c4_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that we're ready with our settings, hover your cursor over to the bottom
+                    right corner of the scene settings menu and left-click the yellow "Create Map"
+                        button.<image placement="break" href="Used%20images/Capture4.PNG"
+                        id="image_xlj_k2n_ypb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_utc_l2n_ypb">After following these steps we've now created our blank
+            canvas where we can explore the tools that are at our disposal. Once you're done with
+            this task move onto the next task - "Using the mask tool".</result>
+    </taskbody>
+</task>

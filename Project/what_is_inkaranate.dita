@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_inkaranate">
+    <title>What is Inkaranate?</title>
+    <conbody>
+        <image href="Used%20images/InkarnateLogo.PNG" id="image_sc3_yvg_ypb"/>
+        <p><b>Inkarnate is an online map-making platform that lets you create and manage fantasy
+                maps.</b></p>
+        <p>A lot of different people enjoy and trust our app for their map-making needs:</p>
+        <ul id="ul_yml_fvg_ypb">
+            <li>D&amp;D game masters and players,</li>
+            <li>fantasy world builders and book authors,</li>
+            <li>boardgame designers,</li>
+            <li>artistic people looking for ways to expand their creative skills,</li>
+            <li>and many others, young and old!</li>
+        </ul>
+        <p>Being an online tool, Inkarnate allows you to access and edit your maps from anywhere –
+            all you need is Internet connection, and you're all set to bring your fantasy worlds to
+            life!</p>
+    </conbody>
+</concept>

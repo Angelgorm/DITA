@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="payments_on_inkarnate">
+    <title>Payments on Inkarnate</title>
+    <refbody>
+        <section id="section_gnv_pwg_ypb">
+            <title>How much does Inkarnate cost?</title>
+            <p><b>You can use Inkarnate Free for as long as you want</b>, no credit card
+                required.</p>
+            <p>If you want more than what the Free version offers, you can choose to upgrade a Pro
+                plan. We currently have an Annual (25$ per year) and a Monthly (5$ per month) Pro
+                plans.</p>
+        </section>
+        <section id="section_hnv_pwg_ypb">
+            <title>What’s the difference between the two Pro Plans?</title>
+            <p><b>Both plans provide the same tools and options.</b> The only difference between the
+                two plans is that the Monthly Pro subscription Plan is paid monthly, and the Annual
+                Pro Plan is paid annually. Most of our users choose the annual plan, because it’s
+                35$ savings per year!</p>
+        </section>
+        <section id="section_inv_pwg_ypb">
+            <title>How can I pay for the Pro Version?</title>
+            <p>We currently offer two payment methods. You can either pay via Credit or Debit Cards
+                (Stripe), or using PayPal.</p>
+        </section>
+        <section id="section_jnv_pwg_ypb">
+            <title>Can I cancel my subscription?</title>
+            <p>You can cancel your subscription (further payments) anytime from your account
+                page.</p>
+        </section>
+    </refbody>
+</reference>

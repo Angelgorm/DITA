@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="using_the_brush_tool">
+    <title>Using the brush tool</title>
+    <shortdesc>The brush tool is used to color or texture backgrounds or foregrounds to add more
+        life and variety to your creation.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The brush tool has a couple of basic and advanced settings. For this guide we'll only
+                be covering some of the basic settings and none of the advanced ones. You'll need to
+                have completed the previous guide to continue with this one. Now let's begin: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To select the brush tool you can either press the "B" key on your keyboard or
+                    you can hover to the brush icon located right under the mask tool and click it
+                    with your cursor.<image placement="break" href="Used%20images/Capture12.PNG"
+                        scale="90" id="image_l2h_44n_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that the brush tool menu is open hover your cursor over to the top side of
+                    the menu where you can either select and click the "Texture" or "Color" setting.
+                    Choosing the color option will open a color selector which you can use to get
+                    whatever color you feel like for your brush tool. Choosing texture will then
+                    require you to to then open the texture ctalague to choose a texture. You can do
+                    this by either clicking the yellow "Open Ctalogue" button right under the
+                    currently selected texture or you can press the "F" key on your keyboard to open
+                    it. From here you can select whatever texture is available to you by clicking on
+                    it. Once you've selcted a texture, to exit the catalogue either click "Esc" on
+                    your keyboard or hover you mouse over to the top right corner and press the "x"
+                        button.<image placement="break" href="Used%20images/Capture13.PNG"
+                        scale="50" id="image_gcn_mqn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that you've either selected a color or a texture you'll have to choose a
+                    layer to work on. The layer setting is located right under the Texture/Color
+                    setting. Once you've hovered over to it you can either click the
+                    "FG"(foreground) or the "BG"(background) option. Since we're making an island we
+                    won't be needing the background option so make sure to click the "FG" option.
+                    You can also press "1" on your keyboard to select "FG" or "2" to select
+                        "BG".<image placement="break" href="Used%20images/Capture14.PNG" scale="80"
+                        id="image_tfg_1rn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>After we've selected a layer you'll have to once again select a shape and size
+                    for your brush. You've already learned how to use these from the previous task.
+                    Take a look at Steps 2 and 4 from "Using the mask tool" you've forgotten how to
+                    use these settings.<image placement="break" href="Used%20images/Capture15.PNG"
+                        scale="70" id="image_l11_mrn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Under the size slider is the opacity slider. It is managed in the same way as
+                    the size slider except that it's keyboard shortcuts are "D" to reduce opacity
+                    and "E" to increase it. The lower your opacity is the more easy it to see
+                    through your brush color once you start drawing with it. At 1 opacity you can
+                    see through the color.<image placement="break"
+                        href="Used%20images/Capturee16.PNG" scale="80" id="image_jxj_1tn_ypb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Under the opacity slider is the softness slider. It is managed in the same way
+                    as the size slider except that it's keyboard shortcuts are "A" to reduce
+                    softness and "Q" to increase it.<image placement="break"
+                        href="Used%20images/Capture16.PNG" scale="80" id="image_xkv_ctn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now we can finally move onto the drawing phase. For this guide I've selected
+                    the following settings: "Grass Green 1" texture; "FG" layer; Size 80 brush; 1
+                    opacity and 1 softness; Once you've selected your setting you can begin drawing
+                    over your island plot the same way you would using the mask tool. Once you're
+                    finished check out the results.</cmd>
+            </step>
+        </steps>
+        <result id="result_e5g_xsn_ypb">Using the brush tool this is what I got after I drew the
+            grassy texture over my land plot.<image placement="break"
+                href="Used%20images/Capture17.PNG" scale="30" id="image_rlw_jtn_ypb"/>Feel free to
+            continue with your own creation onto the next task of this guide - "Using the stamp
+            tool".</result>
+    </taskbody>
+</task>

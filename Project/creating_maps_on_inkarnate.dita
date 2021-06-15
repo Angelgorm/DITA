@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="creating_maps_on_inkarnate">
+    <title>Creating maps on Inkarnate</title>
+    <refbody>
+        <section id="section_ild_2xg_ypb">
+            <title>What do I need to start creating on Inkarnate?</title>
+            <p>You’ll just need an Inkarnate account and an internet connection.</p>
+            <p>Get started by signing up for Inkarnate with one of our plans (there’s a free version
+                too!). Then create your first map and start bringing your worlds to life.</p>
+            <p>Our <xref href="https://www.reddit.com/r/inkarnate" format="html" scope="external"
+                    >Reddit user community</xref> will be happy to assist you with feedback on
+                finished creations.</p>
+        </section>
+        <section id="section_jld_2xg_ypb">
+            <title>Can I download my maps?</title>
+            <p>Yes, you can! All maps can be exported as images, ready to be used online or printed
+                in your tabletop games or books.</p>
+        </section>
+        <section id="section_kld_2xg_ypb">
+            <title>Can I use Inkarnate offline?</title>
+            <p>No, at the moment for using Inkarnate you'll need to have Internet connection.</p>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="using_the_mask_tool">
+    <title>Using the mask tool</title>
+    <shortdesc>For this duide we'll be creating a small island. We'll be using the base background
+        for this and we'll be using the mask tools basic features to create plots of land and to
+        alter the islands shape.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The mask tool has basic settings and advanced settings. For this guide we'll be
+                taking a look at the basic settings and we'll be using them to create a small
+                island. Let's begin: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To access the mask tool you can simply press the "M" key on your keyboards or
+                    you can hover your mouse cursor to the left side of the screen and left-click
+                    the shovel icon to select the mask tool.<image placement="break"
+                        href="Used%20images/Capture5.PNG" scale="70" id="image_lv3_1hn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that the mask tool has been selcted and it's settings menu has been opened
+                    first we'll take a look at the first three shape selections. They're located at
+                    the top left half of the mask tool menu. For this guide we'll be using the
+                    "Shape: Edge" setting so make sure to have it selected by left clicking the
+                    edgeless star-shaped blot right next to the circle.<image placement="break"
+                        href="Used%20images/Capture6.PNG" scale="80" id="image_kb3_zhn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now that we've selected our shape, we'll have to select the mode and size of
+                    our mask tool. In order to create sections of land we'll have to select the
+                    "Add" mode. This mode allows us to create land, while the "Subtract" allows us
+                    to remove land. To alternate or select between these modes you can either hover
+                    your cursor over to them to manually select them or you can use the keyboard
+                    shortcuts for them. Press the "A" key to select the "Add" mode or the "D" key to
+                    select the "Subtract" mode.<image placement="break"
+                        href="Used%20images/Capture7.PNG" scale="80" id="image_thy_t3n_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now we'll select our mask tool size. To choose your mask tool size you can
+                    either hover your cursor over to the size slider which is right under the mode
+                    setting or you can use the number field where you can enter a size through your
+                    keyboard. Alternatively you can use the keyboard shortcut keys. You can press or
+                    hold down the "S" key on your keyboard to reduce the size of the mask tool or
+                    you can press or hold down the "W" key to increase the size of your mask tool.
+                    I'll be using the standard 100 size but you can choose another one if you feel
+                    like experimenting.<image placement="break" href="Used%20images/Capture8.PNG"
+                        id="image_ijm_ckn_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>The last setting we'll be looking at is the roughness setting. It is located
+                    right under the size setting in the mask tool menu. There is no keyboard
+                    shortcut for this setting so you'll have to manually select the nuber of desired
+                    roughness using your mouse nad keyboard. The shape of the land created becomes
+                    more spread out in shape the larger the number is and becomes more condensed and
+                    circular the lower it is. I will be using a roughness of 24 for this guide.
+                    Right next to the number field you have a tick option for smoothness. While
+                    active the shapes created are are curvier without sharp edges, while disabled
+                    the shapes become more angular with sharp edges. I will have this option enabled
+                    for this guide.<image placement="break" href="Used%20images/Capture9.PNG"
+                        scale="80" id="image_ehk_pln_ypb"/></cmd>
+            </step>
+            <step>
+                <cmd>For our final step we'll be using what we learned from the above steps to
+                    create some land on our map. Once you've selected your desired settings simply
+                    hover over to the mask tool brush to the blue background and start creating land
+                    by left-clicking on it with your mouse or by holding down the left mouse button
+                    and dragging to a side to make longer stretches of land. If at any point you
+                    feel like you've made a mistake hover your mouse over to the top left corner of
+                    the screen and click the undo or redo arrows. Or instead of clicking you can use
+                    the "Ctrl+Z" keyboard shortcut to "Undo" or the "Ctrl+Shift+Z" to "Redo". You
+                    can finish this step whenever you feel comfortable with the result.<image
+                        placement="break" href="Used%20images/Capture10.PNG" scale="80"
+                        id="image_ejf_lmn_ypb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_acv_lmn_ypb">This is my end result for an island which I will be using
+            for the next tasks in this tutorial guide. <image placement="break"
+                href="Used%20images/Capture11.PNG" scale="30" id="image_qzj_dnn_ypb"/>Feel free to
+            continue using your own results as it won't make a difference. Once you're ready please
+            move onto the next part of this tutorial - "Using the brush tool".</result>
+    </taskbody>
+</task>
